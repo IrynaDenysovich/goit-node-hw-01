@@ -1,0 +1,1 @@
+const { listContacts } = require("./contacts");
